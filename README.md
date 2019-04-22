@@ -1,6 +1,4 @@
-# Challenge de Innovacion de Grupo Modelo
-
-## Talent Land 2019
+# Challenge de Innovacion de Grupo Modelo - Talent Land 2019
 
 # Plan de digitalización para la recolección de envases retornables
 
